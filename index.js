@@ -1,0 +1,1 @@
+require("./myserviceentity.js").start();
